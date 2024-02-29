@@ -1,0 +1,2 @@
+# VisualSpec.Shared
+VisualSpec.Shared
