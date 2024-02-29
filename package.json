@@ -1,0 +1,26 @@
+{
+  "name": "visualspec.shared",
+  "version": "1.0.0",
+  "description": "Shared scripts on Visualspec projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geeksltd/VisualSpec.Shared.git"
+  },
+  "keywords": [
+    "VisualSpec"
+  ],
+  "author": "Mohamad Geraily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geeksltd/VisualSpec.Shared/issues"
+  },
+  "homepage": "https://github.com/Geeksltd/VisualSpec.Shared#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
